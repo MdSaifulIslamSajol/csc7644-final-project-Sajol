@@ -1,0 +1,24 @@
+# Daily AI News Summary
+
+### 2026-05-01
+- [India has emerged as the largest user base for ChatGPT Images 2.0 since its launch last week, OpenAI said on Thursday](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/)
+- [Meta plans to cut about 10% of its workforce on May 20 and has warned that more layoffs could follow despite stable business performance](https://www.news9live.com/technology/tech-news/meta-to-cut-10-workforce-on-may-20-signals-more-layoffs-ahead-amid-ai-spending-surge-2966807)
+- [China’s EV price war turns into AI arms race beyond cheaper cars](https://www.cnbc.com/2026/05/01/china-ev-ai-features-price-war-bytedance-alibaba-doubao-volcano-engine.html)
+
+### 2026-04-30
+- [The India-UK Technology Security Initiative (TSI) is a strategic investment in the future that will secure supply chains, the UK Parliament was told this week during a review of the pact’s impact](https://www.etvbharat.com/en/international/india-uk-tech-partnership-will-secure-supply-chains-uk-parliament-told-enn26043006506)
+- [Recaps five of the top AI stories from April, featuring Lloyds Banking Group, Anthropic, Customers Bank, OpenAI, Vistra, Accenture, and more](https://www.fintechfutures.com/ai-in-fintech/april-2026-top-five-ai-stories-of-the-month)
+- [Elon Musk said Thursday his artificial intelligence startup, xAI, has used technology from OpenAI to train its own AI models](https://www.forbes.com/sites/antoniopequenoiv/2026/04/30/elon-musk-admits-xai-distilled-openai-data-to-train-models-heres-what-that-means/)
+- [States are rushing to regulate the use of AI by health insurers and providers despite a campaign by the White House to block AI regulation around the country](https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/04/30/ai-tech-brief-states-regulate-ai-health-care/)
+- [Dr. Jesse Ehrenfeld, Aidoc's global CMO, says that clinician champions are vital for testing AI tools and deploying them smoothly](https://www.mobihealthnews.com/video/ai-success-depends-engaging-multidisciplinary-champions)
+- [Elon Musk has spent much of this week on the witness stand in federal court as part of his lawsuit against OpenAI and its CEO, Sam Altman](https://www.forbesafrica.com/current-affairs/2026/05/01/musk-admits-distilling-openai-data-for-his-xai-heres-why-thats-controversial/)
+- [Viz.ai announced Thursday a collaboration with the National Rural Health Association aimed at helping rural healthcare leaders better understand and implement AI tools](https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-partners-national-rural-health-association-expand-ai-understanding)
+- [Meta's artificial intelligence tools for business facilitated nearly 10 million conversations per week by the end of March](https://zamin.uz/en/technology/198655-meta-business-ai-handles-10-million-conversations-per-week.html)
+- [Reddit CEO Steve Huffman said the platform’s vast library of human conversations makes it a critical input for AI](https://www.cnbc.com/2026/04/30/reddits-ceo-fuel-artificial-intelligence.html)
+- [Under-Oath Elon Musk Seems to Run a Different Company Than Public-Figure Elon Musk](https://gizmodo.com/under-oath-elon-musk-seems-to-run-a-different-company-than-public-figure-elon-musk-2000752839)
+- [Meta has been found in preliminary violation of the European Union’s Digital Services Act for failing to prevent children under 13 from accessing its platforms](https://www.startupecosystem.ca/news/meta-faces-eu-law-violation-for-inadequate-child-protection-on-platforms/)
+- [Danone and Nestlé adopt agentic AI to boost dairy productivity, streamline supply chains, and enhance food manufacturing efficiency](https://en.edairynews.com/ai-agents-transform-dairy-efficiency-at-global-giants/)
+- [Dozens of superintendents and students will gather for a three-day workshop this summer focused on crafting an AI use policy school districts across the country can adopt](https://www.edweek.org/technology/students-will-take-the-lead-on-crafting-a-model-ai-policy-for-schools/2026/04)
+- [UK businesses risk falling behind in the AI economy amid a perfect storm of skills challenges, Hexaware warns](https://hrnews.co.uk/uk-businesses-falling-behind-in-the-ai-economy-amid-perfect-storm-of-skills-challenges-hexaware-warns/)
+- [Waystar brought in $313.9 million in first-quarter revenue, up 22% from the same period a year ago, as executives reaffirmed investments in artificial intelligence and innovation](https://www.fiercehealthcare.com/ai-and-machine-learning/waystar-boasts-growth-investments-q1-2026-earnings)
+- [Blackstone Inc is overhauling its growth investing platform to create a new dedicated artificial intelligence-focused division](https://www.privateequitywire.co.uk/blackstone-creates-dedicated-ai-investment-unit/)

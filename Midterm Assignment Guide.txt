@@ -1,0 +1,50 @@
+Midterm Assignment Guide
+Project Scope
+Your project should be ambitious enough to demonstrate mastery of course concepts but also realistic enough to complete within the final weeks of the semester. The goal is not to solve all aspects of a complex, real-world problem but to design, prototype, and evaluate a well-scoped system that highlights your understanding of LLM engineering strategies introduced in class (prompting, RAG, agentic systems, multimodality, fine-tuning). The project does not need to encompass all of these strategies. 
+
+In-Scope Examples 
+These are examples of project directions that are appropriate in scale and make use of the techniques you will have studied by the end of the course: 
+
+Domain-Specific Retrieval-Augmented QA 
+Building a small RAG system with a curated corpus (e.g., course readings, a set of company reports, or a research subfield like wildlife biology papers). 
+Demonstrating that the system retrieves relevant passages and generates grounded responses. 
+The focus should be on conceptual architecture and evaluation, not on building massive databases. 
+Agentic Assistants with Tool Use 
+Prototyping an agent that can call 2–3 external tools (e.g., a calculator, a document retriever, or a weather API). 
+Chaining tool calls to solve a slightly more complex task, such as generating a report that requires both retrieval and computation. 
+The project demonstrates an understanding of planning, tool orchestration, and guardrails. 
+Multimodal Text+Vision Prototypes 
+Creating a demo where the model accepts both text and images as input. 
+Example: image captioning with explanation, or answering questions about a chart or diagram. 
+The project shows you can design prompts and workflows that integrate multimodal capabilities. 
+Light Fine-Tuning or Parameter-Efficient Adaptation 
+Applying LoRA or similar techniques to an open-source LLM for a focused domain task (e.g., classifying biomedical abstracts or customizing style in text generation). 
+The dataset with clear evaluation metrics should be small enough to fine-tune within resource constraints. 
+Emphasis should be on when and why fine-tuning adds value compared to prompting or RAG. 
+
+Guiding Principle 
+Your project should showcase an understanding of LLM workflows, strategies, and limitations while being doable in 3 to 4 weeks. Think in terms of “prototype” and “proof-of-concept,” not enterprise-scale systems. Strong projects often do one thing well and include thoughtful evaluation and reflection. 
+
+Midterm Assignment Guide
+Deliverables
+1. Quad Chart (One Slide) 
+The quad chart is a visual summary of your project idea. It must fit on a single PowerPoint or PDF slide, with four quadrants. A template has been provided, which you must use. The quadrants are as follows: 
+
+Top Line (BLUF – Bottom Line Up Front): One to two sentences summarizing your proposed project and the approach you plan to take. 
+Background & Motivation (upper left): Explain the problem you are addressing, how it is currently solved, and why LLMs are relevant. 
+Data and Resources (upper right): Identify the datasets, APIs, or other resources you will use. Clarify whether these are provided, self-collected, or publicly available. 
+Possible Technical Approach (lower left): Describe the LLM strategy you plan to use (prompting, RAG, agentic systems, multimodality, fine-tuning). List possible models and justify your design choices. 
+Impact & References (bottom right): Explain the potential impact of your project. Cite references in APA format (if any). You may also include a diagram or figure. 
+Format: Submit as a single PDF titled LastName_FirstName_quadchart.pdf  
+
+Project Proposal—Quad Chart Template 
+2. Proposal Document (2–3 Pages) 
+Your written proposal provides the depth and supporting rationale behind the quad chart. The document should include the following sections: 
+
+Introduction and Motivation: Explain the significance of your chosen problem. Why is it worth solving? Who benefits? 
+Background and Related Work: Briefly summarize any existing systems, papers, or tools relevant to your project. Position your idea in relation to them. 
+Proposed Approach: Describe your technical plan in more detail. Which course concepts (prompting, RAG, agentic systems, multimodality, fine-tuning) will you apply? How? 
+Data and Resources: Specify what data or APIs you will use, how you will access them, and whether there are limitations. If applicable, describe preprocessing steps. 
+Evaluation Plan: Define what “success” means for your project. Will you measure performance with metrics (e.g., accuracy, BLEU, F1), cost, latency, or qualitative analysis? 
+Feasibility and Scope: Demonstrate that your project can be completed within the available time. Identify potential risks (e.g., dataset availability, API limits) and mitigation strategies. 
+Format: 2–3 pages, 1.5 spacing, 12-pt Times New Roman font. Submit as a PDF titled LastName_FirstName_proposal.pdf 
